@@ -1,7 +1,7 @@
 # JSClassFinder
 Detecting class-like structures in JavaScript
 
-It is a research project to study the &#8220;emulation&#8221; of classes in JavaScript (JS) applications.<br />
+JSClassFinder is a part of a research project to study the &#8220;emulation&#8221; of classes in JavaScript (JS) applications.<br />
 JSClassFinder is the tool to detect class-like structures in JS software.</p>
 <p><strong>Talk</strong></p>
 <p><script async class="speakerdeck-embed" data-id="f0f3140ca74048dbb22e4bb10fee8be5" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></p>
