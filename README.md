@@ -25,17 +25,8 @@ Use the instructions below to use Esprima under <a href="http://nodejs.org/" tit
 3- Ok, you are ready to execute Esprima commands. </p>
 <p>The file <a href="http://java.llp.dcc.ufmg.br/mediawiki/images/0/09/Analysejs.zip" title="script">analyse.js</a> is one example of script that can be used to generate JSON files.</p>
 <p><strong>More Info</strong></p>
-<p><a href="http://www.dcc.ufmg.br/~mtov/pub/2015_saner.pdf"> <img src="http://aserg.labsoft.dcc.ufmg.br/wordpress/wp-content/plugins/papercite/img/pdf.png" alt="[PDF]" /></a>  Leonardo Silva, Miguel Ramos, Marco Tulio Valente, Nicolas Anquetil, Alexandre Bergel. Does Javascript Software Embrace Classes? In <em>22nd International Conference on Software Analysis, Evolution and Reengineering (SANER) </em>, pages 1-10, 2015. <a id="papercite_61" class="papercite_toggle" href="javascript:void(0)"> [Bibtex]</a></p>
-<div id="papercite_61_block" class="papercite_bibtex">
-<pre><code class="tex bibtex">@inproceedings{saner2015, 
-  author = {Leonardo Silva and Miguel Ramos and Marco Tulio Valente and Nicolas Anquetil and Alexandre Bergel}, 
-  title = {Does {Javascript} Software Embrace Classes?}, 
-  booktitle = {22nd International Conference on Software Analysis, Evolution and Reengineering (SANER)}, 
-  year = {2015}, 
-  pages = {1--10}, 
-}
-</code></pre>
-</div>
+<p><a href="http://www.dcc.ufmg.br/~mtov/pub/2015_saner.pdf"> <img src="http://aserg.labsoft.dcc.ufmg.br/wordpress/wp-content/plugins/papercite/img/pdf.png" alt="[PDF]" /></a>  Leonardo Silva, Miguel Ramos, Marco Tulio Valente, Nicolas Anquetil, Alexandre Bergel. Does Javascript Software Embrace Classes? In <em>22nd International Conference on Software Analysis, Evolution and Reengineering (SANER) </em>, pages 1-10, 2015. 
+
 <p><strong>Download</strong></p>
 <p><a href="https://drive.google.com/file/d/0B-ZbjmvQs5bXQXlEQmxCa0tiSUE/view?usp=sharing" title="Ready-to-use Pharo image">Ready-to-use Pharo image with JSClassFinder installed</a><br />
 <a href="http://smalltalkhub.com/#!/~LeonardoHumberto/JSClasses" title="JSClassFinder Tool">JSClassFinder packages</a><br />
