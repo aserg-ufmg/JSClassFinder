@@ -28,6 +28,6 @@ Use the instructions below to use Esprima under <a href="http://nodejs.org/" tit
 <p><a href="http://www.dcc.ufmg.br/~mtov/pub/2015_saner.pdf"> <img src="http://aserg.labsoft.dcc.ufmg.br/wordpress/wp-content/plugins/papercite/img/pdf.png" alt="[PDF]" /></a>  Leonardo Silva, Miguel Ramos, Marco Tulio Valente, Nicolas Anquetil, Alexandre Bergel. Does Javascript Software Embrace Classes? In <em>22nd International Conference on Software Analysis, Evolution and Reengineering (SANER) </em>, pages 1-10, 2015. 
 
 <p><strong>Download</strong></p>
-<p><a href="https://drive.google.com/file/d/0B-ZbjmvQs5bXamZEbzN6LTluUTg/view?usp=sharing" title="Ready-to-use Pharo image">Ready-to-use Pharo image with JSClassFinder installed</a><br />
+<p><a href="https://drive.google.com/file/d/0B-ZbjmvQs5bXMnNHMjFMRFhCU2c/view?usp=sharing" title="Ready-to-use Pharo image">Ready-to-use Pharo image with JSClassFinder installed</a><br />
 <a href="http://smalltalkhub.com/#!/~LeonardoHumberto/JSClasses" title="JSClassFinder Tool">JSClassFinder packages</a><br />
 <a href="http://aserg.labsoft.dcc.ufmg.br/qualitas.js/qualitas.js.rar" title="Dataset">Dataset</a></p>
