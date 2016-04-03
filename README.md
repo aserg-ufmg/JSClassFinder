@@ -4,7 +4,7 @@ Detecting class-like structures in legacy JavaScript code (prior to ECMAScript 6
 <script async class="speakerdeck-embed" data-id="f0f3140ca74048dbb22e4bb10fee8be5" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 <p><strong>Installation</strong></p>
-<p>The source code is implemented in <a href="http://pharo.org/" title="Pharo">Pharo</a>.<br />
+<p>JSClassFinder is implemented in <a href="http://pharo.org/" title="Pharo">Pharo</a> (a Smalltalk-like language) <br />
 You can download a ready-to-use Pharo image <a href="https://drive.google.com/file/d/0B-ZbjmvQs5bXamZEbzN6LTluUTg/view?usp=sharing" title="Ready-to-use Pharo image">here</a>, or use the instructions below to install JSClassFinder inside your own Pharo image:<br />
 1 &#8211; Open Monticello browser<br />
 2 &#8211; Add a new repository (+Repository) of type HTTP<br />
