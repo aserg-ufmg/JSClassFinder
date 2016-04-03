@@ -30,7 +30,7 @@ Circle2D.prototype.getY = function () {
 }
  ```
 
-<p><strong>Example of class diagram for system algorithm.js</p>
+<p><strong>Example of class diagram for system algorithm.js</strong></p>
 
 ![alt text](https://github.com/aserg-ufmg/JSClassFinder/blob/master/UMLdiagramAlgorithms.png "Class diagram")
 
