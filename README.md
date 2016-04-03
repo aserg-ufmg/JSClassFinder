@@ -5,10 +5,10 @@ Detecting class-like structures in legacy JavaScript code (prior to ECMAScript 6
 
 ```javascript
 function Circle (radius) { //  class
- this.radius= radius; // attribute
- this.getArea= function () { // method
- return (3.14 * this.radius * this.radius);
- }
+   this.radius= radius; // attribute
+   this.getArea= function () { // method
+     return (3.14 * this.radius * this.radius);
+   }
  }
  var myCircle = new Circle (10); // Circle instance
  ```
