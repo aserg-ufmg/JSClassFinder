@@ -14,7 +14,7 @@ function Circle (radius) { //  class
  var myCircle = new Circle (10); // Circle instance
  
  function Circle2D (x, y) { // class Circle2D
-    this.x = x;
+   this.x = x;
    this.y= y;
  }
 
