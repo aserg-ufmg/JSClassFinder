@@ -1,8 +1,6 @@
 # JSClassFinder
 Detecting class-like structures in legacy JavaScript code (prior to ECMAScript 6).
 
-<script async class="speakerdeck-embed" data-id="f0f3140ca74048dbb22e4bb10fee8be5" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-
 <p><strong>Installation</strong></p>
 <p>JSClassFinder is implemented in <a href="http://pharo.org/" title="Pharo">Pharo</a> (a Smalltalk-like language) <br />
 You can download a ready-to-use Pharo image <a href="https://drive.google.com/file/d/0B-ZbjmvQs5bXamZEbzN6LTluUTg/view?usp=sharing" title="Ready-to-use Pharo image">here</a>, or use the instructions below to install JSClassFinder inside your own Pharo image:<br />
@@ -22,8 +20,11 @@ Use the instructions below to use Esprima under <a href="http://nodejs.org/" tit
 2- load Esprima package : &#8220;npm install esprima&#8221;<br />
 3- Ok, you are ready to execute Esprima commands. </p>
 <p>The file <a href="http://java.llp.dcc.ufmg.br/mediawiki/images/0/09/Analysejs.zip" title="script">analyse.js</a> is one example of script that can be used to generate JSON files.</p>
+
+
 <p><strong>More Info</strong></p>
-<p><a href="http://www.dcc.ufmg.br/~mtov/pub/2015_saner.pdf"> <img src="http://aserg.labsoft.dcc.ufmg.br/wordpress/wp-content/plugins/papercite/img/pdf.png" alt="[PDF]" /></a>  Leonardo Silva, Miguel Ramos, Marco Tulio Valente, Nicolas Anquetil, Alexandre Bergel. Does Javascript Software Embrace Classes? In <em>22nd International Conference on Software Analysis, Evolution and Reengineering (SANER) </em>, pages 1-10, 2015. 
+ Leonardo Silva, Miguel Ramos, Marco Tulio Valente, Nicolas Anquetil, Alexandre Bergel. Does Javascript Software Embrace Classes? In <em>22nd International Conference on Software Analysis, Evolution and Reengineering (SANER) </em>, pages 1-10, 2015. 
+ <a href="http://www.dcc.ufmg.br/~mtov/pub/2015_saner.pdf">Paper</a>, <a href="https://speakerdeck.com/aserg_ufmg/does-javascript-software-embrace-classes-saner-2015">Slides</a>
 
 <p><strong>Download</strong></p>
 <p><a href="https://drive.google.com/file/d/0B-ZbjmvQs5bXMnNHMjFMRFhCU2c/view?usp=sharing" title="Ready-to-use Pharo image">Ready-to-use Pharo image with JSClassFinder installed</a><br />
