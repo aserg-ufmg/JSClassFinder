@@ -1,16 +1,16 @@
 # JSClassFinder
 Detecting class-like structures in legacy JavaScript code (prior to ECMAScript 6).
 
-<p></strong>Example of Class detected by JSClassFinder</strong></p>
+<p><strong>Example of Class detected by JSClassFinder</strong></p>
 
 ```javascript
-function Circle (radius) { // function -> class
- this.radius= radius; // property -> attribute
- this.getArea= function () {// function -> method
+function Circle (radius) { //  class
+ this.radius= radius; // attribute
+ this.getArea= function () { // method
  return (3.14 * this.radius * this.radius);
  }
  }
- var myCircle = new Circle (10); // Circle instance -> object
+ var myCircle = new Circle (10); // Circle instance
  ```
 
 <p><strong>Installation</strong></p>
