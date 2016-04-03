@@ -35,6 +35,10 @@ Circle2D.prototype.getY = function () {
 ![alt text](https://github.com/aserg-ufmg/JSClassFinder/blob/master/UMLdiagramAlgorithms.png "Class diagram")
 
 
+<p><strong>Data about Class Usage in 60 JavaScript systems, collected by JSClassFinder</strong></p>
+
+![alt text](https://github.com/aserg-ufmg/JSClassFinder/blob/master/dataset.png "Dataset")
+
 
 <p><strong>Installation</strong></p>
 <p>JSClassFinder is implemented in <a href="http://pharo.org/" title="Pharo">Pharo</a> (a Smalltalk-like language) <br />
