@@ -30,6 +30,12 @@ Circle2D.prototype.getY = function () {
 }
  ```
 
+<p><strong>Example of class diagram for system algorithm.js</p>
+
+![alt text](https://github.com/aserg-ufmg/JSClassFinder/blob/master/UMLdiagramAlgorithms.png "Class diagram")
+
+
+
 <p><strong>Installation</strong></p>
 <p>JSClassFinder is implemented in <a href="http://pharo.org/" title="Pharo">Pharo</a> (a Smalltalk-like language) <br />
 You can download a ready-to-use Pharo image <a href="https://drive.google.com/file/d/0B-ZbjmvQs5bXamZEbzN6LTluUTg/view?usp=sharing" title="Ready-to-use Pharo image">here</a>, or use the instructions below to install JSClassFinder inside your own Pharo image:<br />
