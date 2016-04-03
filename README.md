@@ -1,5 +1,5 @@
 # JSClassFinder
-Detecting class-like structures in legacy JavaScript code (prior to ECMAScript 6).
+A tool to detect class-like structures in legacy JavaScript code (prior to ECMAScript 6).
 
 <p><strong>Example of Class detected by JSClassFinder</strong></p>
 
