@@ -1,5 +1,5 @@
 # JSClassFinder
-A tool to detect class-like structures in legacy JavaScript code (prior to ECMAScript 6).
+A tool to detect class-like structures in legacy JavaScript code (i.e., prior to ECMAScript 6).
 
 <p><strong>Example of Class detected by JSClassFinder</strong></p>
 
@@ -35,7 +35,7 @@ Circle2D.prototype.getY = function () {
 ![alt text](https://github.com/aserg-ufmg/JSClassFinder/blob/master/UMLdiagramAlgorithms.png "Class diagram")
 
 
-<p><strong>Data about Class Usage in 60 JS systems, as collected by JSClassFinder</strong></p>
+<p><strong>Data about Class Usage in 60 JavaScript systems, as collected by JSClassFinder</strong></p>
 
 ![alt text](https://github.com/aserg-ufmg/JSClassFinder/blob/master/dataset.png "Dataset")
 
