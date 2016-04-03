@@ -1,6 +1,18 @@
 # JSClassFinder
 Detecting class-like structures in legacy JavaScript code (prior to ECMAScript 6).
 
+<p></strong>Example of Class detected by JSClassFinder</strong></p>
+
+```javascript
+function Circle (radius) { // function -> class
+ this.radius= radius; // property -> attribute
+ this.getArea= function () {// function -> method
+ return (3.14 * this.radius * this.radius);
+ }
+ }
+ var myCircle = new Circle (10); // Circle instance -> object
+ ```
+
 <p><strong>Installation</strong></p>
 <p>JSClassFinder is implemented in <a href="http://pharo.org/" title="Pharo">Pharo</a> (a Smalltalk-like language) <br />
 You can download a ready-to-use Pharo image <a href="https://drive.google.com/file/d/0B-ZbjmvQs5bXamZEbzN6LTluUTg/view?usp=sharing" title="Ready-to-use Pharo image">here</a>, or use the instructions below to install JSClassFinder inside your own Pharo image:<br />
