@@ -1,6 +1,3 @@
-<head>
-<link rel='stylesheet' id='papercite_css-css'  href='http://aserg.labsoft.dcc.ufmg.br/wordpress/wp-content/plugins/papercite/papercite.css?ver=4.3' type='text/css' media='all' />
-</head>
 # JSClassFinder
 A tool to detect class-like structures in legacy JavaScript code (i.e., prior to ECMAScript 6).
 
@@ -65,16 +62,7 @@ Use the instructions below to use Esprima under <a href="http://nodejs.org/" tit
 
 <p><strong>More Info</strong></p>
  Leonardo Humberto Silva, Daniel Felix, Marco Tulio Valente, Alexandre Bergel, Nicolas Anquetil, Anne Etien. JSClassFinder: A Tool to Detect Class-like Structures in JavaScript. In <em>6th Brazilian Conference on Software: Theory and Practice (Tools Track) </em>, pages 1-8, 2015. 
- <a href="http://homepages.dcc.ufmg.br/~mtov/pub/2015_cbsoft_jsclassfinder.pdf">Paper</a>, <a id="papercite_66x" class="papercite_toggle" href="javascript:void(0)"> [Bibtex]</a>
-<div id="papercite_66x_block" class="papercite_bibtex">
-<pre><code class="tex bibtex">@inproceedings{cbsoft2015-js, 
-  author = {Leonardo Humberto Silva and Daniel Felix and Marco Tulio Valente and Alexandre Bergel and Nicolas Anquetil and Anne Etien}, 
-  booktitle = {6th Brazilian Conference on Software: Theory and Practice (CBSoft), Tools Demonstration Track}, 
-  title = {{JSClassFinder}: A Tool to Detect Class-like Structures in {JavaScript}}, 
-  year = {2015}, 
-  pages = {1--6}, 
-}</code></pre>
-</div>
+ <a href="http://homepages.dcc.ufmg.br/~mtov/pub/2015_cbsoft_jsclassfinder.pdf">Paper</a>
 <br />
  Leonardo Humberto Silva, Miguel Ramos, Marco Tulio Valente, Nicolas Anquetil, Alexandre Bergel. Does Javascript Software Embrace Classes? In <em>22nd International Conference on Software Analysis, Evolution and Reengineering (SANER) </em>, pages 1-10, 2015. 
  <a href="http://www.dcc.ufmg.br/~mtov/pub/2015_saner.pdf">Paper</a>, <a href="https://speakerdeck.com/aserg_ufmg/does-javascript-software-embrace-classes-saner-2015">Slides</a><br />
