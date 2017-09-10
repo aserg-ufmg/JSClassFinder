@@ -1,3 +1,6 @@
+<head>
+<link rel='stylesheet' id='papercite_css-css'  href='http://aserg.labsoft.dcc.ufmg.br/wordpress/wp-content/plugins/papercite/papercite.css?ver=4.3' type='text/css' media='all' />
+</head>
 # JSClassFinder
 A tool to detect class-like structures in legacy JavaScript code (i.e., prior to ECMAScript 6).
 
@@ -59,7 +62,6 @@ Use the instructions below to use Esprima under <a href="http://nodejs.org/" tit
 2- load Esprima package : &#8220;npm install esprima&#8221;<br />
 3- Ok, you are ready to execute Esprima commands. </p>
 <p>The file <a href="http://java.llp.dcc.ufmg.br/mediawiki/images/0/09/Analysejs.zip" title="script">analyse.js</a> is one example of script that can be used to generate JSON files.</p>
-
 
 <p><strong>More Info</strong></p>
  Leonardo Humberto Silva, Daniel Felix, Marco Tulio Valente, Alexandre Bergel, Nicolas Anquetil, Anne Etien. JSClassFinder: A Tool to Detect Class-like Structures in JavaScript. In <em>6th Brazilian Conference on Software: Theory and Practice (Tools Track) </em>, pages 1-8, 2015. 
