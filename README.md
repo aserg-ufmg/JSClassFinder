@@ -63,8 +63,7 @@ Use the instructions below to use Esprima under <a href="http://nodejs.org/" tit
 <p><strong>More Info</strong></p>
  Leonardo Humberto Silva, Marco Tulio Valente, Alexandre Bergel, Nicolas Anquetil, Anne Etien. Identifying Classes in Legacy JavaScript Code. Journal of Software: Evolution and Process, vol. 29, n. 8, pages 1-20, 2017. 
  <a href="http://www.dcc.ufmg.br/~mtov/pub/2017-jsep.pdf">Paper</a>
- 
-<br /><br />
+ <br /><br />
  Leonardo Humberto Silva, Miguel Ramos, Marco Tulio Valente, Nicolas Anquetil, Alexandre Bergel. Does Javascript Software Embrace Classes? In <em>22nd International Conference on Software Analysis, Evolution and Reengineering (SANER) </em>, pages 1-10, 2015. 
  <a href="http://www.dcc.ufmg.br/~mtov/pub/2015_saner.pdf">Paper</a>, <a href="https://speakerdeck.com/aserg_ufmg/does-javascript-software-embrace-classes-saner-2015">Slides</a><br />
 
