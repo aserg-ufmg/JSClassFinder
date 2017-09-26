@@ -61,8 +61,9 @@ Use the instructions below to use Esprima under <a href="http://nodejs.org/" tit
 <p>The file <a href="http://java.llp.dcc.ufmg.br/mediawiki/images/0/09/Analysejs.zip" title="script">analyse.js</a> is one example of script that can be used to generate JSON files.</p>
 
 <p><strong>More Info</strong></p>
- Leonardo Humberto Silva, Daniel Felix, Marco Tulio Valente, Alexandre Bergel, Nicolas Anquetil, Anne Etien. JSClassFinder: A Tool to Detect Class-like Structures in JavaScript. In <em>6th Brazilian Conference on Software: Theory and Practice (Tools Track) </em>, pages 1-8, 2015. 
- <a href="http://homepages.dcc.ufmg.br/~mtov/pub/2015_cbsoft_jsclassfinder.pdf">Paper</a>
+ Leonardo Humberto Silva, Marco Tulio Valente, Alexandre Bergel, Nicolas Anquetil, Anne Etien. Identifying Classes in Legacy JavaScript Code. Journal of Software: Evolution and Process, vol. 29, n. 8, pages 1-20, 2017. 
+ <a href="http://www.dcc.ufmg.br/~mtov/pub/2017-jsep.pdf">Paper</a>
+ 
 <br /><br />
  Leonardo Humberto Silva, Miguel Ramos, Marco Tulio Valente, Nicolas Anquetil, Alexandre Bergel. Does Javascript Software Embrace Classes? In <em>22nd International Conference on Software Analysis, Evolution and Reengineering (SANER) </em>, pages 1-10, 2015. 
  <a href="http://www.dcc.ufmg.br/~mtov/pub/2015_saner.pdf">Paper</a>, <a href="https://speakerdeck.com/aserg_ufmg/does-javascript-software-embrace-classes-saner-2015">Slides</a><br />
